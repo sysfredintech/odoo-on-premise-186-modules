@@ -70,6 +70,7 @@ git clone https://github.com/OCA/reporting-engine.git --branch 18.0 --depth=1 /o
 git clone https://github.com/OCA/bank-payment-alternative.git --branch 18.0 --depth=1 /opt/odoo/custom-addons/bank-payment-alternative
 git clone https://github.com/OCA/server-env.git --branch 18.0 --depth=1 /opt/odoo/custom-addons/server-env
 git clone https://github.com/OCA/queue.git --branch 18.0 --depth=1 /opt/odoo/custom-addons/queue
+git clone https://github.com/OCA/account-financial-reporting.git --branch 18.0 --depth=1 /opt/odoo/custom-addons/account-financial-reporting
 EOF
 echo "Installation des requirements et des modules"
 cp ./odoo.service /etc/systemd/system/

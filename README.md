@@ -12,7 +12,7 @@
 
 ## Modules installés par défaut
 
-Les 186 modules pré-installés et activés couvrent un large éventail de cas d’utilisation d'Odoo pour les professionnels en France, y compris avec la factur-X. Sont inclus différents modules développés par OCA. À adapter comme décrit ci-dessous.
+Les 187 modules pré-installés et activés couvrent un large éventail de cas d’utilisation d'Odoo pour les professionnels en France, y compris avec la factur-X. Sont inclus différents modules développés par OCA. À adapter comme décrit ci-dessous.
 Il est possible d'activer des modules supplémentaires via la webui après l'installation de façon classique.
 
 ## Personnalisation
